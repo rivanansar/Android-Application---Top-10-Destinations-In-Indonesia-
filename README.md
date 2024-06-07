@@ -1,4 +1,4 @@
-# Android-Application---Top-10-Destinations-In-Indonesia
+# Android-Application_Top-10-Destinations-In-Indonesia
 
 Pada aplikasi android dapat menampilkan Top 1o Wisata terbaik di Indonesia!
 - Terdapat Splash Screen awal berjalannya aplikasi
