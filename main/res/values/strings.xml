@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">MyApplicationDicoding</string>
+
+    <string name="heroes_name">Nama Destinasi Wisata Di Indonesia</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+    <string name="about_page">Rivan Fauzan</string>
+    <string name="email">rivanfauzanansar@gmail.com</string>
+    <string name="detail_activity">Hi!</string>
+
+    <string-array name="data_name">
+        <item>Taman Nasional Wakatobi</item>
+        <item>Pulau Komodo</item>
+        <item>Raja Ampat</item>
+        <item>Taman Laut Bunaken</item>
+        <item>Puncak JayaWijaya</item>
+        <item>Candi Borobudur</item>
+        <item>Gunung Bromo</item>
+        <item>Candi Prambanan</item>
+        <item>Danau Toba</item>
+        <item>Taman Nasional Baluran</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Taman Nasional Wakatobi - Southeast Sulawesi.
+            Taman Nasional Wakatobi is one of Indonesia tourist paradises that you must visit once in your life. The largest coral reef area in the world after the Great Barrier Reef (Australia) has an area of 1.4 million hectares, with thousands of species of flora and fauna living in it. Wakatobi National Park is located between the coral triangle. In the area there are various types of coral, fish, mollusks and the largest species of marine plants in the world. The four largest islands in its territory are Wangi-wangi Island, Kadelupia Island, Tomia Island and Binongko Island. Apart from that, there are 39 small islands and several large coral islands. The four largest islands are surrounded by coral reefs and large coral islands. Wakatobi National Park is also surrounded by straits. The existence of the strait provides an entry point for turtles and whales. </item>
+        <item>Pulau Komodo - Nusa Tenggara Islands.
+            Pulau Komodo is included in the Komodo National Park area along with the cloth islands around the Nusa Tenggara Islands. In 1986, UNESCO designated this tourist spot in Indonesia as a world heritage site. This island is considered a Komodo habitat that must be protected. Apart from Komodo dragons, this island also has exotic flora, a variety of Sepang wood which local residents use as medicine and clothing dye. This nitak tree or Sterculia oblongata is believed to be useful as medicine and its seeds are as tasty and delicious as peas. Pulau Komodo is also accepted as a UNESCO World Heritage Site, because it is in the Komodo National Park area, together with Rinca Island, Padar Island and Gili Motang </item>
+        <item>Raja Ampat - Southwest Papua.
+            There is no doubt about the richness of Raja Ampat underwater world. The waters at this tourist spot are known as one of the best diving and snorkeling locations in the world. Even The Nature Conservancy says that around 75% of the world marine biota can be found in Raja Ampat waters. The Raja Ampat archipelago straddles the equator and forms part of the Coral Triangle, an area of Southeast Asian seas containing the richest marine biodiversity on earth. The Coral Triangle itself is an approximate area west-southwest of the Philippines, east-northeast and southeast of the island of Borneo, and north, east and west of the island of New Guinea, including the seas in between. Thousands of species of marine organisms, from the tiniest cleaner shrimp and camouflaged pygmy seahorses to the majestic cetaceans and whale sharks, thrive in these waters.</item>
+        <item>Taman Laut Bunaken - North Sulawesi.
+            Taman Laut Bunaken is one of the most beautiful tourist attractions in Indonesia which was again designated by UNESCO as a world heritage site, precisely in 2005. This is due to the extraordinary richness and diversity of marine biota ranging from coral reefs, seaweed to fish species. unaken National Park also has various species of fish, marine mammals, reptiles, birds, molluscs and mangroves. Around 90 species of fish live in the waters of this region. On land, this island is rich in Arecaceae, sago, woka, silar and coconut. Apart from that, Taman Laut Bunaken also has animal species that live on land, such as deer and cuscus. The mangrove forests in this park are a habitat for crabs, lobsters, molluscs and sea birds</item>
+        <item>Puncak Jayawijaya - Central Papua.
+            Puncak jayawijay or what is usually called Carstensz Peak is the only mountain peak in Indonesia that has eternal snow. This peak rises more than 5,000 meters above sea level. Puncak Jaya Wijaya or Carstensz Pyramid is the highest peak that is part of the Barisan Sudirman Mountains in Mimika Regency, Central Papua Province, Indonesia. Puncak Jaya or Carstensz Pyramid has a height of 4,883 meters above sea level and around it there is a glacier with the same name, namely the Carstensz glacier, the only tropical glacier in Indonesia, which remains and is slowly starting to thin due to global warming. This peak is the highest mountain in Indonesia and the 7th highest in Southeast Asia. Puncak Jaya is one of the seven highest peaks in the world.</item>
+        <item>Candi Borobudur -  Central Java.
+            This temple is located approximately 100 km southwest of Semarang, 86 km west of Surakarta, and 40 km northwest of Yogyakarta. This temple with many stupas was founded by followers of Mahayana Buddhism around 800 AD. This monument consists of six square terraces on top of which there are three circular courtyards. The walls are decorated with 2,672 relief panels and originally there were 504 Buddha statues. Borobudur has the most complete and largest collection of Buddhist reliefs in the world. The largest main stupa is located in the center and crowns this building, surrounded by three circular rows of 72 perforated stupas in which there is a statue of Buddha sitting cross-legged in a perfect lotus position with the Dharmachakra mudra (turning the wheel of dharma).</item>
+        <item>Gunung Bromo - East Java.
+            This mountain has a height of 2,329 meters above sea level and is located in four districts, namely Probolinggo Regency, Pasuruan Regency, Lumajang Regency and Malang Regency. The body shape of Mount Bromo is linked between valleys and canyons with a caldera or sea of sand covering an area of around 10 square kilometers. It has a crater with a diameter of ± 800 meters (north-south) and ± 600 meters (east-west). Meanwhile, the danger area is a circle with a radius of 4 km from the center of the Bromo crater.</item>
+        <item>Candi Prambanan - Central Java.
+            built in the 9th century. Rising 47 meters high with amazing ornaments, the beauty of this Hindu temple is unmatched. Prambanan Temple is located 17 km east of the center of Jogja City and can be reached by Trans Jogja bus. This temple is a UNESCO World Heritage Site, the largest Hindu temple in Indonesia, as well as one of the most beautiful temples in Southeast Asia. The architecture of this building is tall and slender in accordance with Hindu architecture in general with the Shiva temple as the main temple having a height of up to 47 meters standing in the middle of a complex of smaller temples. As one of the grandest temples in Southeast Asia, Prambanan temple attracts tourists from all over the world. According to the Siwagrha inscription, this temple began to be built around 850 AD by Rakai Pikatan, and continued to be developed and expanded by Balitung Maha Sambu, during the Medang Mataram Kingdom.</item>
+        <item>Danau Toba - North Sumatera.
+            The lake is 100 kilometers (62 mi) long, 30 kilometers (19 mi) wide and 508 meters (1,667 ft) deep. Lake Toba is the largest lake in Indonesia and the largest volcanic lake in the world. Danau Toba was formed as a result of a super massive volcanic eruption of magnitude VEI 8 around 69,000 to 77,000 years ago which triggered global climate change. The latest accurate dating method determines that the eruption occurred around 74,000 years ago. This eruption is the largest explosive eruption on Earth in the last 25 million years. According to the Toba disaster theory, this eruption had a major impact on human populations throughout the world; The impact of the eruption killed most of the humans alive at that time and is believed to have caused population decline in East-Central Africa and India, thus influencing the genetics of human populations throughout the world to this day.</item>
+        <item>Taman Nasional Baluran - East Java.
+            Taman Nasional Baluran is one of the national parks in Indonesia which is located in the Banyuputih area, Situbondo, East Java, Indonesia. The name is taken from the name of the mountain in this area, namely Mount Baluran. Initially, this national park area was designated as a protected forest in 1930 by the Director of the Bogor Botanical Gardens, K.W. Dammerman. Its status was then changed to a wildlife sanctuary by the Governor of the Dutch East Indies on September 25 1937. The re-determination as a wildlife sanctuary was carried out by the Minister of Agriculture and Agrarian Affairs through Decree Number. SK/II/1962 dated 11 May 1962. National park status was obtained on 6 March 1980 by the Minister of Agriculture and confirmed again in 1997 by the Minister of Forestry. The land area is 25,000 ha. If you are looking for a holiday destination in Indonesia which is the best natural tourism in Indonesia with a strong African charm, then you can come to Taman Nasional Baluran. In Taman Nasional Baluran you will find vast savanna fields with a variety of animals</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://anekatempatwisata.com/wp-content/uploads/2020/01/Pantai-kepulauan-wakatobi-1-1024x685.jpg</item>
+        <item>https://i.pinimg.com/originals/5a/3c/41/5a3c4137f27452b30cbec4af8f98cfaf.jpg</item>
+        <item>https://picfiles.alphacoders.com/254/254165.jpg</item>
+        <item>https://ik.imagekit.io/tvlk/blog/2020/01/keindahan-alam-indonesia-5-Super-Adventure.jpg?tr=dpr-2,w-675</item>
+        <item>https://3.bp.blogspot.com/-NARJuYZHrN0/VtFOErVcT4I/AAAAAAAAAIA/4KEs4AwLwWc/s1600/puncak_jaya_papua_yang_mempesona_dan_keren.jpg</item>
+        <item>https://3.bp.blogspot.com/-lGGQOQJIKes/WTljH9gSy4I/AAAAAAAAC6k/Tywpo77C7MsFEQrF25yZfAqD9EKc3I5KgCLcB/s1600/gambar%2Bcandi%2Bborobudur.jpg</item>
+        <item>https://www.referensiwisata.com/wp-content/uploads/2019/04/keindahan-gunung-bromo.jpg</item>
+        <item>https://i2.wp.com/www.infobudaya.net/wp-content/uploads/2018/02/candi-prambanan.jpg?fit=3840%2C2160</item>
+        <item>https://www.pemburuombak.com/media/k2/items/cache/039e7b98e91cc2bfcd8bfd8d2f7b3b04_XL.jpg</item>
+        <item>https://www.indonesia.travel/content/dam/indtravelrevamp/en/destinations/revisi-2020/revamp-image/baluran-national-park/deer.jpg</item>
+    </string-array>
+</resources>
