@@ -11,6 +11,6 @@ Tampilan Home<br>
 <img src="https://github.com/rivanansar/Android-Application---Top-10-Destinations-In-Indonesia-/assets/122036556/adbc2382-8c78-4802-84d4-970641810d89" alt="home2" width="200"/>
 
 Tampilan Home<br>
-<img src="https://github.com/rivanansar/Android-Application---Top-10-Destinations-In-Indonesia-/assets/122036556/ad4cceaa-19ad-4a8f-af4e-fe44264afa21" alt="home3" width="200"/>
+<img src="https://github.com/rivanansar/Android-Application---Top-10-Destinations-In-Indonesia-/assets/122036556/ad4cceaa-19ad-4a8f-af4e-fe44264afa21" alt="home3" width="350"/>
 
 Aplikasi ini merupakan pemenuhan tugas pertama di MSIB Batch 6 Bangkit Academy. Berikut Sertifikat kelulusan Course : https://www.dicoding.com/certificates/NVP77D6GGPR0
